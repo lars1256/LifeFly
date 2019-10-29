@@ -1,0 +1,8 @@
+Name: LifeFly
+Version: 1.0.0
+API: 3.0.0 - 4.0.0
+Author: Royallars
+Permission: "lifefly.cmd"
+Command:
+ fly:
+   Description: "flieg in survival"
